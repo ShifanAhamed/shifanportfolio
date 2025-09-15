@@ -23,8 +23,7 @@ const Project = () => {
             </p>
             <a
               href="https://facemark-mu3z.onrender.com"
-              className="text-[#fe5617] font-bold text-lg hover:underline"
-            >
+              className="text-[#fe5617] font-bold text-lg hover:underline" target="blank" >
               Live Demo
             </a>
           </div>
@@ -41,7 +40,7 @@ const Project = () => {
               tracking spending, suggesting budgets, and automating savings with intelligent recommendations.
             </p>
             <a
-              href="https://biosta.netlify.app/"
+              href="" target="blank"
               className="text-[#fe5617] text-center font-bold text-lg hover:underline"
             >
               Live Demo
@@ -59,7 +58,7 @@ const Project = () => {
             </p>
             <a
               href="https://gardenify7.netlify.app/"
-              className="text-[#fe5617] font-bold text-lg hover:underline"
+              className="text-[#fe5617] font-bold text-lg hover:underline" target="blank"
             >
               Live Demo
             </a>
@@ -70,35 +69,32 @@ const Project = () => {
 
         {/* Project 3 and 4 in one row */}
         <div className="flex flex-col md:flex-col gap-10 mt-10">
-          {/* CoderLobby Project */}
+          {/* recipe */}
           <div className="w-full md:w-1/2 flex flex-col place-self-end items-center bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-[#fe5617] font-extrabold text-[32px] mb-4">
-              CoderLobby
+              RecipeShare
             </h1>
             <p className="text-lg text-gray-700 mb-4">
-              A learning platform where users can buy course keys and access
-              full frontend courses. The platform is built using the MERN stack
-              and Firebase for course storage.
+             A community-driven platform where users can add and share their favorite recipes with ingredients, cooking steps, and images. The platform is built using the MERN stack, with Cloudinary for recipe image storage. Users can browse, search, and filter recipes by categories such as Vegetarian, Non-Vegetarian, and Desserts, making it easy to discover and share new dishes.
             </p>
             <a
-              href="https://coderlobby.tech/"
+              href="https://newrecipe1.netlify.app/" target="blank"
               className="text-[#fe5617] font-bold text-lg hover:underline"
             >
               Live Demo
             </a>
           </div>
 
-          {/* Cinerate Project */}
+          {/* Cinelist*/}
           <div className="w-full md:w-1/2 flex flex-col  bg-[#F2EFE5] p-6 rounded-2xl shadow-lg">
             <h1 className="text-center text-[#fe5617] font-extrabold text-[32px] mb-4">
-              Cinerate
+              Cinelist
             </h1>
             <p className="text-lg text-gray-700 mb-4">
-              A movie platform where users can browse movies, view details, and
-              ratings. Built using React.js and the TMDb API for movie data.
+             A personal movie tracking app where users can add movies they want to watch, mark them as “watched,” and organize their watchlist. Built using React.js with the TMDb API for fetching movie details, posters, and ratings. The app lets users search for movies, view detailed information, and manage their watchlist easily.
             </p>
             <a
-              href="https://cinerates.netlify.app/"
+              href="https://cinelist7.netlify.app/" target="_blank"
               className="text-center text-[#fe5617] font-bold text-lg hover:underline"
             >
               Live Demo
@@ -119,7 +115,7 @@ const Project = () => {
               fetch real-time weather data.
             </p>
             <a
-              href="https://weatherfixpro.netlify.app/"
+              href="https://weatherfixpro.netlify.app/" target="blank"
               className="text-[#fe5617] font-bold text-lg hover:underline"
             >
               Live Demo
@@ -138,7 +134,7 @@ const Project = () => {
             </p>
             <a
               href="https://github.com/AMOHAMMEDIMRAN/Amazing-Landing-Page"
-              className="text-center text-[#fe5617] font-bold text-lg hover:underline"
+              className="text-center text-[#fe5617] font-bold text-lg hover:underline" target="blank"
             >
               Live Demo
             </a>
