@@ -26,7 +26,7 @@ const Home = () => {
 
           {/* About Me */}
           <p className="text-lg md:text-xl text-gray-700 font-medium">
-            A Pre-final year student with a strong passion for MERN stack development.
+            A final year student with a strong passion for MERN stack development.
             Skilled in building user-friendly web applications and eager to apply
             technical knowledge to real-world projects while continuously learning and growing.
           </p>
@@ -56,12 +56,12 @@ const Home = () => {
         </div>
 
         {/* Right Section */}
-        <div className="order-1 lg:order-2 flex justify-end items-center">
+  {/*       <div className="order-1 lg:order-2 flex justify-end items-center">
           <img
             className="w-[85%] rounded-[50px]"
             src="/profile.jpg"
             alt="Profile"
-          />
+          /> */}
         </div>
       </div>
     </div>
