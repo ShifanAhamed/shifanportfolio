@@ -14,7 +14,7 @@ const About = () => {
 
         {/* About Me Section */}
         <p className="text-lg md:text-xl text-gray-700 text-center leading-relaxed">
-          A <span className="font-bold text-[#fe5617]">Pre-final year student</span> with a strong passion for
+          A <span className="font-bold text-[#fe5617]">final year student</span> with a strong passion for
           <span className="font-bold text-[#fe5617]"> software development</span>. Skilled in
           programming languages and full-stack technologies, eager to apply technical
           knowledge to real-world projects while continuously learning and growing.
