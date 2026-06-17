@@ -61,8 +61,8 @@ const Home = () => {
             className="w-[85%] rounded-[50px]"
             src="/profile.jpg"
             alt="Profile"
-          /> */}
-        </div>
+          /> 
+        </div>*/}*/}
       </div>
     </div>
   );
